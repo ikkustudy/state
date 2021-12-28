@@ -1,3 +1,3 @@
 # state
 
-# CoinZoe = True
+# CoinZoe = 1.0.2
