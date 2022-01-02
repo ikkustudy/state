@@ -1,3 +1,4 @@
 # state
 
-# CoinZoe = 1.0.3
+# CoinZoe = 1.0.2
+
